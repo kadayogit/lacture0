@@ -3,7 +3,7 @@
   <title>my website</title>
 </head>
 <body>
- Pageak labaad:
- <a href="magaca_pageka_aad_tagayso.html">Riix Halkan</a>
+ Pageka labaad waxa aad ku qorta qoraal:
+ <p>waxa aad ku soo dhawaata pageka labaad</p>
 </body>
 </html>
