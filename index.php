@@ -3,6 +3,6 @@
   <title>my website</title>
 </head>
 <body>
- <h2>Pageka labaad waxa aad ku qorta qoraal:</h2>
+ <h1>Pageka labaad waxa aad ku qorta qoraal:</h1>
 </body>
 </html>
