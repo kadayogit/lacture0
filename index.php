@@ -3,7 +3,6 @@
   <title>my website</title>
 </head>
 <body>
- Pageka labaad waxa aad ku qorta qoraal:
- <p>waxa aad ku soo dhawaata pageka labaad</p>
+ <h2>Pageka labaad waxa aad ku qorta qoraal:</h2>
 </body>
 </html>
